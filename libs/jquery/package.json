@@ -1,0 +1,22 @@
+{
+
+  "name": "jquery",
+  "filename": "jquery.js",
+  "version": "1.0",
+
+  // 其他
+  "description": "jquery",
+  "homepage": "http://jquery.com/,
+  "keywords": ['jquery','js],
+  "maintainers": [
+    {
+      "web": "http://jquery.com/"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/jquery/jquery"
+    }
+  ]
+}
